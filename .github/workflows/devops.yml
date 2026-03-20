@@ -3,7 +3,7 @@ name: Pipeline con Errores
 on:
   push:
     branches:
-      - rama1
+      - rama1 
 
 
 jobs:
